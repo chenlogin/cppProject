@@ -1,0 +1,12 @@
+.idea
+.vscode
+.vs
+.settings
+
+
+node_modules
+build
+dist
+
+x64
+Release
