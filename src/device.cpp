@@ -3,7 +3,7 @@
 #include<windows.h>
 #include<string>
 #include<tchar.h>
-#include"device.h"
+#include"../include/device.h"
 
 using namespace std;
 

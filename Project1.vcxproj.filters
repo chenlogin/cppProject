@@ -15,21 +15,21 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="circle.cpp">
+    <ClCompile Include="src\device.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="device.cpp">
+    <ClCompile Include="src\circle.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="circle.h">
+    <ClInclude Include="include\circle.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="device.h">
+    <ClInclude Include="include\device.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

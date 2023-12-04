@@ -1,6 +1,6 @@
 ﻿#include<iostream>
-#include "circle.h"
-#include "device.h"
+#include "../include/circle.h"
+#include "../include/device.h"
 
 using namespace std;
 
