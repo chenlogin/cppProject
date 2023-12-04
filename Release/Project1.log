@@ -1,8 +1,0 @@
-﻿  circle.cpp
-  main.cpp
-  正在生成代码
-  Previous IPDB not found, fall back to full compilation.
-C:\workspace\cppProject\main.cpp(33): warning C4715: “getLeftSpace”: 不是所有的控件路径都返回值
-  All 132 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  已完成代码的生成
-  Project1.vcxproj -> C:\workspace\cppProject\Release\Project1.exe

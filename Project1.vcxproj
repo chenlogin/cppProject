@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="circle.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="device.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
+    <ClInclude Include="device.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
